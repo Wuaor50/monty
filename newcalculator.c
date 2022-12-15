@@ -1,3 +1,4 @@
+#include "monty.h"
 /**
  * _add - adds the top two elements in stack
  * @h: top node

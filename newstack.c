@@ -1,3 +1,4 @@
+#include "monty.h"
 /**
  * is_number - iterates each character of string to check of isdigit
  * @n: integer
